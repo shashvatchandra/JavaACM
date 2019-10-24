@@ -1,2 +1,2 @@
 # JavaACM
-Basic Codes
+Basic Codes of Java
