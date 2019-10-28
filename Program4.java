@@ -1,8 +1,8 @@
-import java.io.*;
+
 import java.util.*;
 class Program4
 {
-	public static void main(String args[]) throws IOException
+	public static void main(String args[])
 	{
 		boolean flag=false;
     if(flag)flag=false;
