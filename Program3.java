@@ -1,8 +1,7 @@
-import java.io*;
 import java.util.*;
 class Program3
 {
-public static void main(String args[])throws IOException
+public static void main(String args[])
 {
 Scanner sc=new Scanner(System.in);
 int n=0;
