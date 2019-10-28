@@ -1,8 +1,8 @@
-import java.io.*;
+
 import java.util.*;
 class Program2
 {
-	public static void main(String args[]) throws IOException
+	public static void main(String args[])
 	{
 		int n=3;
 		double n1=3;
